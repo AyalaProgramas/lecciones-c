@@ -1,0 +1,9 @@
+C:\Users\Jose\Desktop\TAREA\frmInternet\bin\Debug\frmInternet.exe.config
+C:\Users\Jose\Desktop\TAREA\frmInternet\bin\Debug\frmInternet.exe
+C:\Users\Jose\Desktop\TAREA\frmInternet\bin\Debug\frmInternet.pdb
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.Form1.resources
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.Properties.Resources.resources
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.exe
+C:\Users\Jose\Desktop\TAREA\frmInternet\obj\Debug\frmInternet.pdb
