@@ -1,0 +1,13 @@
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\bin\Debug\FrmTempera.exe.config
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\bin\Debug\FrmTempera.exe
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\bin\Debug\FrmTempera.pdb
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\bin\Debug\PROPTEMPERAPALETA.dll
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\bin\Debug\PROPTEMPERAPALETA.pdb
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.frmpaleta.resources
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.frmTempera.resources
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.Properties.Resources.resources
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.exe
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.pdb
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\FrmTempera\obj\Debug\FrmTempera.frmOrdenar.resources

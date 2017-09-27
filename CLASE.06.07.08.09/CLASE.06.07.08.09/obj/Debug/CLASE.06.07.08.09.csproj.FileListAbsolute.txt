@@ -1,0 +1,5 @@
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\CLASE.06.07.08.09\bin\Debug\CLASE.06.07.08.09.dll
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\CLASE.06.07.08.09\bin\Debug\CLASE.06.07.08.09.pdb
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\CLASE.06.07.08.09\obj\Debug\CLASE.06.07.08.09.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\CLASE.06.07.08.09\obj\Debug\CLASE.06.07.08.09.dll
+C:\Users\Jose\Desktop\CLASE.06.07.08.09\CLASE.06.07.08.09\obj\Debug\CLASE.06.07.08.09.pdb
