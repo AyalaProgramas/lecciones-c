@@ -1,0 +1,10 @@
+D:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\bin\Debug\ModeloParcial.dll
+D:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\bin\Debug\ModeloParcial.pdb
+D:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.csprojResolveAssemblyReference.cache
+D:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.dll
+D:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.pdb
+F:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.csprojResolveAssemblyReference.cache
+F:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.dll
+F:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\obj\Debug\ModeloParcial.pdb
+F:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\bin\Debug\ModeloParcial.dll
+F:\000BIDART_M\VehiculosLavadero\ModeloParcial\VehiculoLavadero\ModeloParcial\bin\Debug\ModeloParcial.pdb
