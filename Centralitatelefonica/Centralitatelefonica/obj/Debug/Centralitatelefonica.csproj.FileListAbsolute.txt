@@ -1,0 +1,10 @@
+E:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.csprojResolveAssemblyReference.cache
+E:\Centralitatelefonica\Centralitatelefonica\bin\Debug\Centralitatelefonica.dll
+E:\Centralitatelefonica\Centralitatelefonica\bin\Debug\Centralitatelefonica.pdb
+E:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.dll
+E:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.pdb
+F:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.csprojResolveAssemblyReference.cache
+F:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.dll
+F:\Centralitatelefonica\Centralitatelefonica\obj\Debug\Centralitatelefonica.pdb
+F:\Centralitatelefonica\Centralitatelefonica\bin\Debug\Centralitatelefonica.dll
+F:\Centralitatelefonica\Centralitatelefonica\bin\Debug\Centralitatelefonica.pdb
