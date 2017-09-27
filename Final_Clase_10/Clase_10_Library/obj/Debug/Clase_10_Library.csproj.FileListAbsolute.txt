@@ -1,0 +1,15 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_10_Library\obj\Debug\Clase_10_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_10_Library\bin\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_10_Library\bin\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_10_Library\obj\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_10_Library\obj\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_10\Clase_10_Library\bin\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_10\Clase_10_Library\bin\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.pdb
+D:\000BIDART_M\Final_Clase_10_LabII_2016\Final_Clase_10\Clase_10_Library\bin\Debug\Clase_10_Library.dll
+D:\000BIDART_M\Final_Clase_10_LabII_2016\Final_Clase_10\Clase_10_Library\bin\Debug\Clase_10_Library.pdb
+D:\000BIDART_M\Final_Clase_10_LabII_2016\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.csprojResolveAssemblyReference.cache
+D:\000BIDART_M\Final_Clase_10_LabII_2016\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.dll
+D:\000BIDART_M\Final_Clase_10_LabII_2016\Final_Clase_10\Clase_10_Library\obj\Debug\Clase_10_Library.pdb
