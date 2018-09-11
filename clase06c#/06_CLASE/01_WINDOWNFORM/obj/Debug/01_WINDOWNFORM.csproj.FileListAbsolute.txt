@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\bin\Debug\01_WINDOWNFORM.exe.config
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\bin\Debug\01_WINDOWNFORM.exe
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\bin\Debug\01_WINDOWNFORM.pdb
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\01_WINDOWNFORM.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\_01_WINDOWNFORM.Properties.Resources.resources
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\01_WINDOWNFORM.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\01_WINDOWNFORM.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\01_WINDOWNFORM.exe
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\01_WINDOWNFORM.pdb
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\_01_WINDOWNFORM.frmFormulario.resources
+C:\Users\alumno\Desktop\06_CLASE\01_WINDOWNFORM\obj\Debug\_01_WINDOWNFORM.frmPantallaDos.resources
