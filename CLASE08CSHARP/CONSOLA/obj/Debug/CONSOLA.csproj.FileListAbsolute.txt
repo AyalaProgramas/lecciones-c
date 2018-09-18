@@ -1,0 +1,7 @@
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\bin\Debug\CONSOLA.exe.config
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\bin\Debug\CONSOLA.exe
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\bin\Debug\CONSOLA.pdb
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\obj\Debug\CONSOLA.csprojAssemblyReference.cache
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\obj\Debug\CONSOLA.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\obj\Debug\CONSOLA.exe
+D:\VisualStudio\CLASE08CSHARP\CONSOLA\obj\Debug\CONSOLA.pdb

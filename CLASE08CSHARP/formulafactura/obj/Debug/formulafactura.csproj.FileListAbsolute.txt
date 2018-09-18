@@ -1,0 +1,14 @@
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\formulafactura.exe.config
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\formulafactura.exe
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\formulafactura.pdb
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\CONSOLA.exe
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\CONSOLA.pdb
+D:\VisualStudio\CLASE08CSHARP\formulafactura\bin\Debug\CONSOLA.exe.config
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.csprojAssemblyReference.cache
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.Form1.resources
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.Properties.Resources.resources
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.csproj.GenerateResource.cache
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.csproj.CopyComplete
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.exe
+D:\VisualStudio\CLASE08CSHARP\formulafactura\obj\Debug\formulafactura.pdb
