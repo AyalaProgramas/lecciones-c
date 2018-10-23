@@ -1,0 +1,21 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\bin\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\bin\Debug\Clase_17_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_17_Library\bin\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_17_Library\bin\Debug\Clase_17_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_17_Library\obj\Debug\Clase_17_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_17_Library\obj\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_17_Library\obj\Debug\Clase_17_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_17\Clase_17_Library\bin\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_17\Clase_17_Library\bin\Debug\Clase_17_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.pdb
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\bin\Debug\Clase_17_Library.dll
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\bin\Debug\Clase_17_Library.pdb
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.dll
+C:\Users\alumno\Desktop\Final_Clase_17\Clase_17_Library\obj\Debug\Clase_17_Library.pdb
