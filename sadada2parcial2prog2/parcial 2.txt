@@ -1,0 +1,186 @@
+Segundo Parcial
+*Obligatorio
+Marque la/s opción/es correcta/s
+Las interfaces contienen atributos, propiedades y métodos abstractos.
+Las interfaces pueden heredar de otra interfaz.
+Todas las interfaces son públicas.
+Todos sus métodos deben ser virtuales.
+Como se debe implementar una interface en una clase hija de Persona
+public class Alumno <IAlumno: Persona>
+public class Alumno <Persona> , <IAlumno>
+public class Alumno : IAlumno, Persona
+public class Alumno : Persona, IAlumno
+Marque la/s Interfaz/es válida/s
+public interface miInterface { string Nombre { get; set; } }
+public interface miInterface { virtual string Nombre{ get; set; } }
+public abstract interface miInterface { string Nombre{ get; set; } }
+public abstract interface miInterface { virtual string Nombre{ get; set; } }
+Los delegados
+Son una lista de punteros a métodos
+Son Colecciones de métodos
+Son un puntero a función
+Son métodos ejecutables
+¿Cuándo se lanza una excepción?
+Cuando el programador lo desee
+Cuando se utilizar Try catch
+Cuando hay un error en tiempo de diseño
+Cuando hay un error de ejecución
+En que nameSpace se encuentra SqlConnection
+System.Data.SqlClient;
+System.Data;
+Sql.Data;
+Microsoft.System.Data;
+Cual de los siguiente metodos acepta el constructor de ParameterizedThreadStart *
+public string metodo4(object o)
+private string metodo3(object o)
+public void metodo1(object o)
+private void metodo2(object o, EventArgs e)
+Que propiedad de SqlCommand tiene la consulta SQL
+Parameters;
+El consutructor;
+CommandText;
+CommandType;
+Como se crean los test unitarios
+Creando un entorno de Test
+Realizando la conexión sql a un servidor de Desarrollo
+Creando un proyecto de Test
+Creando una clase de Test
+Cual/es de las siguientes declaraciones de clases es correcta
+public class Alumno<T,J> where T,J : new() {}
+public class Alumno<T> where T is new() {}
+public class Alumno<T, J> where T : new() where J : new() {}
+public class Alumno<T> where T: new() {}
+Como Identifico la excepción que se lanzo.
+Por el mensaje de error
+Por el catch
+Por el código de error
+Por la clase de la excepción
+La serializacion Binaria
+Exporta todos los métodos y propiedades públicos
+Exporta todas las propiedades publicas
+Exporta todas las propiedades
+Exporta todos los métodos y propiedades
+Que retorna el siguiente código cuando no se encuentra el archivo.
+public void Leer(string path){ try{File.OpenRead(path);} catch (Exception e){MessageBox.Show("Salida 1");throw new FileNotFoundException(path, e);}catch (FileNotFoundException e) {MessageBox.show("Salida 2");throw new FileNotFoundException(path, e);}catch (IOException e) {MessageBox.show("Salida 3");throw new FileNotFoundException(path, e);}}
+“salida 1 “ y Excepcion
+“salida 2 “ y Excepcion
+Error en tiempo de Diseño
+“salida 3 “ y Excepcion
+Que realiza la clase BinaryFormatter
+Establece la estructura que tendrá el archivo XML.
+Serializa Clases en formato binario.
+Serializa objetos en formato binario.
+Serializa objetos en formato XML.
+Cuantas Interfaces pueden implementarse en una Clase
+Todas las que hereden del mismo padre.
+Una
+Las interfaces no se implementan.
+Todas que se requiera.
+Apellido *
+Ayala jose
+Que código es correcto para verificar la existencia de un arhivo.
+File A = new File(); A.Exists(path);
+Path.Exists(path);
+Path A = new Path(); A.Exists(path);
+File.Exists(path);
+Cuando se dice que un test es exitoso
+Cuando se encuentra un error
+Cuando se prueba todo el sistema
+Cuando no hay mas cosas que testear
+Cuando No se encuentra ningun error
+Que es un método de extensión
+Un método parametrizado
+Un método no sobrescribible
+Un método de clase
+Un método creado con “extends”
+Que retorna el siguiente método:
+string buscar(string connStr){ SqlConnection conexion = new SqlConnection(connStr); SqlCommand comando =new SqlCommand(); comando.CommandText="SELECT nombre FROM Personas"; try{ conexion.Open(); SqlDataReader oDr= comando.ExecuteReader(); string aux; while (oDr.Read()) { aux = oDr["nombre"].ToString(); } }catch(SqlException e) { return "Error en la sentencia SQL" } return aux; }
+Error en tiempo de diseño
+Los nombres de la tabla persona
+Error en la sentencia SQL
+El ultimo nombre de la tabla persona
+Como se Ejecutan las pruebas de un test unitario
+Desde el explorador de pruebas
+Desde la consola del proyecto
+Desde el método que quiere revisarse.
+Corren automáticamente cuando se debuguea el proyecto
+Los eventos
+Son la forma que tienen las clases para comunicarse
+Son Metodos que se ejecutan asincrónicamente
+Son punteros a funciones
+Son acciones del usuario
+Cual/es elemento/s pueden utilizar generics
+Método
+Propiedad
+Clase
+Interface
+Que es un hilo
+Una serie de métodos ordenados
+Un proceso o rutina
+La ejecución de un método
+Una secuencia de tareas encadenadas
+La serializacion XML
+Exporta todos los métodos y propiedades públicos
+Exporta todos los métodos y propiedades
+Exporta todas las propiedades
+Exporta todas las propiedades publicas
+Que realiza el conectionString
+Realiza la conexión a la base
+Es un string que contiene la ruta y login a la base
+Realizar una consulta en la BD
+Crea un enlace con la base de datos
+Un método genérico es
+Un método parametrizado
+Un método creado con “extends”
+Un método de clase
+Un método no sobrescribible
+Que garantiza una interface
+Que la clase que la implementa contiene todos los métodos que contiene
+Que la clase que la implementa contiene todas las propiedades que contiene
+Que la clase que la hereda contiene todos los métodos que contiene
+Que la clase que la implementa contiene todas los atributos que contiene
+Con que método del SqlCommand ejecutamos una consulta Insert
+ExecuteNonQuery
+ExecuteScalar
+Read
+ExecuteReader
+Que Clase explicita el resultado del Test
+Test
+Assert
+TestMethod
+IsValid
+Cuando se termina un hilo.
+Cuando se ejecuta el método Abort.
+Cuando termina de ejecutar el método
+Cuando finaiiza el hilo padre
+Cuando ocurre un error
+Que hace la palabra where en un método parametrizado
+Ubica la clase donde se generó el método
+Restringe el parámetro que puede utilizarse
+Es el nombre del párametro
+Realiza un filtro sobre los datos
+Para que se utiliza la etiquita Serializable
+Para establecer que una propiedad privada se pude serializar Binaria
+Para establecer que una clase privada se pude serializar XML
+Para establecer que una propiedad privada se pude serializar XML
+Para establecer que una clase se pude serializar Binaria
+Qué pasa si una excepción no es manejada
+Sale un mensaje de error y continua el flujo
+Se abre un nuevo hilo de trabajo
+Se detiene el flujo y el programa deja de funcionar
+El programa no compila
+Que puedo ingresar en el parámetro H de la siguiente clase: public class Auto<H> where H: Vehiculo , new()
+Una instancia de Vehículo
+Error en tiempo de diseño
+La clase Vehículo si tiene constructor por defecto
+Una instancia de un hijo de la Clase Vehículo que tengan constructor por defecto
+Como capturo la excepción
+Con un Bloque try. No es necesario el catch
+Con un objeto Exception
+Con un método try catch finally
+Con un bloque try y catch
+Como se lanza un evento
+Llamando al metodo por defecto de la insatancia
+Con el método Invoke
+Con el método Event
+Con el +=
